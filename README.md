@@ -337,7 +337,7 @@ env.close()
 
 ## Output
 
-```text
+
 
 For episode = 20000
 
@@ -368,10 +368,7 @@ Estimated State-Value Function and Learned Policy:
 <img width="972" height="596" alt="image" src="https://github.com/user-attachments/assets/edc7e60b-b9ff-4d44-8d67-71d4c414672c" />
 
 
-```
 
-
----
 
 ## Result
 
