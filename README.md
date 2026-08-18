@@ -339,30 +339,32 @@ env.close()
 
 
 
-For episode = 20000
+## For episode = 20000
 
-Final Q-table:
+### Final Q-table:
 
 <img width="835" height="457" alt="Screenshot 2026-08-18 154740" src="https://github.com/user-attachments/assets/8e0b74a8-7d67-450a-89ea-ad86178abe58" />
 
 
-Estimated State-Value Function and Learned Policy:
+### Estimated State-Value Function and Learned Policy:
 
 
 <img width="889" height="592" alt="Screenshot 2026-08-18 154749" src="https://github.com/user-attachments/assets/c71b16d5-1331-40f9-b5cf-2d5c6e1ebea0" />
 
 
 
-For episode = 30000
 
-Final Q-table:
+
+## For episode = 30000
+
+### Final Q-table:
 
 
 <img width="1153" height="483" alt="image" src="https://github.com/user-attachments/assets/ae38590e-9223-46c5-a67c-1f2510b1122d" />
 
 
 
-Estimated State-Value Function and Learned Policy:
+### Estimated State-Value Function and Learned Policy:
 
 
 <img width="972" height="596" alt="image" src="https://github.com/user-attachments/assets/edc7e60b-b9ff-4d44-8d67-71d4c414672c" />
